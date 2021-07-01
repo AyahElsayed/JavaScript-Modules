@@ -15,4 +15,8 @@ function getSessions(){
   })
 }
 
-export {getSessions};
+export {getSessions as default, sessionURL};
+
+// default export => 
+// only one item default
+// i can import it as any other name
