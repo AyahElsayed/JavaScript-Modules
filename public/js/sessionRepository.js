@@ -21,7 +21,7 @@ export {getSessions as default, sessionURL};
 // only one item default
 // i can import it as any other name
 
-// export {sessionTemplate} from './template.js'
+export {sessionTemplate} from './template.js'
 
 // Aggregating modules =>
 // re-exporting a module immediately
